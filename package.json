@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "parcel-bundler": "1.9.4",
+    "parcel-plugin-typescript": "^1.0.0",
+    "typescript": "^3.6.3"
+  },
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.3.0",
+    "@typescript-eslint/parser": "^2.3.0"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "which": "which parcel"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
